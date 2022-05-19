@@ -12,4 +12,4 @@ this gas propel our rocket into the sky.
 
 Planning Documents: https://drive.google.com/drive/folders/1tZ5dSv5s1o1vbS3MPye-oxdw0tjJOcvf?usp=sharing
 
-Just Kidding, now we're donig a stomp rocket because it would take too much time to do previous idea.
+# Just Kidding, now we're donig a stomp rocket because it would take too much time to do previous idea.
