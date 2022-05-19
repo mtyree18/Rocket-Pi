@@ -18,4 +18,6 @@ Planning Documents: https://drive.google.com/drive/folders/1tZ5dSv5s1o1vbS3MPye-
 
 We have decided to do a stomp rocket because the mechanics are simple and it can be designed efficiently.
 
-## 
+## Wiring Diagram
+
+![Wiring Diagram](https://user-images.githubusercontent.com/60942957/169368395-f2359f61-46b6-4fcf-9778-94706ec342af.jpg)
