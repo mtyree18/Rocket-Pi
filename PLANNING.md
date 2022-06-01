@@ -18,3 +18,6 @@ We have decided to do a stomp rocket because the mechanics are simple and it can
 https://www.thingiverse.com/thing:733138
 ### Onshape Model
 ![onshapeModel1](https://user-images.githubusercontent.com/61475474/170089028-022e442f-cfac-4aa3-8735-daca17539c44.png)
+
+### Process Pictures
+![IMG_4223](https://user-images.githubusercontent.com/60942957/171414435-9118b1e9-0dd9-4ad9-9428-245846d9410e.JPG)
