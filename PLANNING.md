@@ -57,7 +57,7 @@ empty
 
 ### Pictures
 
-![onshapeModel1](https://user-images.githubusercontent.com/61475474/170089028-022e442f-cfac-4aa3-8735-daca17539c44.png)
+![onshapeModel1](https://user-images.githubusercontent.com/61475474/170089028-022e442f-cfac-4aa3-8735-daca17539c44.png | width = 210.5)
 
 ## Wiring
 
