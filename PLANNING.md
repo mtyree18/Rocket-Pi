@@ -65,7 +65,7 @@ The wiring was maybe the most challenging part of this project, and not because 
 
 ### Wiring Pictures
 
-empty
+[empty](https://github.com/mtyree18/Rocket-Pi/issues/3#issue-1255991692)
 
 ### Miscellaneous Pictures
 
