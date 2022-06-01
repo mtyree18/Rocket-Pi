@@ -66,7 +66,7 @@ The wiring was maybe the most challenging part of this project, and not because 
 ### Wiring Pictures
 
 <img src="https://user-images.githubusercontent.com/60942957/171414435-9118b1e9-0dd9-4ad9-9428-245846d9410e.JPG" width = "210.5">
-
+#
 <img scr="https://user-images.githubusercontent.com/60942957/171424201-8720a149-bb4a-44cd-b836-10c66b874288.png" width = "210.5">
 
 ### Miscellaneous Pictures
