@@ -71,4 +71,4 @@ The wiring was maybe the most challenging part of this project, and not because 
 
 ### Miscellaneous Pictures
 
-empty
+<img src="https://user-images.githubusercontent.com/60942957/171424810-0ec4beb4-9fea-444e-87b4-e4fb8e316ea5.jpg" width = "210.5">
