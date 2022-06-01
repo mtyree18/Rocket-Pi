@@ -9,14 +9,14 @@ Helicopter, catapult, bottle rocket, balloon, plane, attach it to a bird, throw 
 We decided to make a bottle rocket. To power the bottle rocket we will use HHO otherwise known as "brown gas". This gas is produced from 
 doing electrolysis to water. When ignited this gas combusts and rushes out of whichever spot provides the least resistance. Our idea is to have
 this gas propel our rocket into the sky. 
-
-
-
+#
+#
+#
 # Project
 # Shift
-
-
-
+#
+#
+#
 ## New Planning
 We have decided to do a stomp rocket because the mechanics are simple and it can be designed more efficiently. Due to time constraints our previous idea is not realistic. For the stomp rocket we are going to use a 2 liter bottle for propulsion. Then we will use two half inch PVC pipes with an elbow socket to turn the pipe in an upward direction. We found a model of a 2 liter bottle to PVC connector on thingiverse.com (link below) and 3D printed it (1). To balance the stomp rocket model we added another PVC pipe underneath going in a perpendicular orientation. The final piece we had to design, the piece connected the two PVC pipes together (2).
 https://www.thingiverse.com/thing:733138
