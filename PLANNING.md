@@ -12,14 +12,12 @@ this gas propel our rocket into the sky.
 #
 #
 #
-# Project
-# Shift
+# Project Shift
 #
 #
 #
 ## New Planning
-We have decided to do a stomp rocket because the mechanics are simple and it can be designed more efficiently. Due to time constraints our previous idea is not realistic. For the stomp rocket we are going to use a 2 liter bottle for propulsion. Then we will use two half inch PVC pipes with an elbow socket to turn the pipe in an upward direction. We found a model of a 2 liter bottle to PVC connector on thingiverse.com (link below) and 3D printed it (1). To balance the stomp rocket model we added another PVC pipe underneath going in a perpendicular orientation. The final piece we had to design, the piece connected the two PVC pipes together (2).
-https://www.thingiverse.com/thing:733138
+We have decided to do a stomp rocket because the mechanics are simple and it can be designed more efficiently. Due to time constraints our previous idea is not realistic.
 
 ## Code Progress
 ### Overview
@@ -40,12 +38,13 @@ link : https://github.com/mtyree18/Engineering_4_Notebook/blob/86269f6525d0875e8
 
 ## CAD Progress
 ### Overview
-
-empty
+For the stomp rocket we are going to use a 2 liter bottle for propulsion. Then we will use two half inch PVC pipes with an elbow socket to turn the pipe in an upward direction. We found a model of a 2 liter bottle to PVC connector on thingiverse.com (link below) and 3D printed it (1). To balance the stomp rocket model we added another PVC pipe underneath going in a perpendicular orientation. The final piece we had to design, the piece connected the two PVC pipes together (2). 
+https://www.thingiverse.com/thing:733138
+<img src="https://user-images.githubusercontent.com/61475474/170089028-022e442f-cfac-4aa3-8735-daca17539c44.png" width = "210.5">
 
 ### Early Days
-
-empty
+In the beginning of the project we wanted to make our rocket into two pieces so we could slide the Pi inside and put a top on. On the top we would use a servo to open a hole for a parachute. After re-evaluating our project we determined that we wouldn't need a parachute due to the projected height of the projectile.
+![onshapeEarlyDesign](https://user-images.githubusercontent.com/61475474/171678041-d73a41bd-8451-49fa-b627-f60ef16f6787.png)
 
 ### Final Stage
 
@@ -54,10 +53,6 @@ empty
 ### Linked Model
 
 Link : https://cvilleschools.onshape.com/documents/9361add885ff5dd5aff085b3/w/0670184bbbeabc8a29667710/e/3fa74f3cb619229d4a364e5b?renderMode=0&uiState=6297767f35c2b53b17c29742
-
-### Pictures
-
-<img src="https://user-images.githubusercontent.com/61475474/170089028-022e442f-cfac-4aa3-8735-daca17539c44.png" width = "210.5">
 
 ## Wiring Progress
 
