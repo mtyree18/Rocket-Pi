@@ -59,8 +59,9 @@ Link : https://cvilleschools.onshape.com/documents/9361add885ff5dd5aff085b3/w/06
 
 <img src="https://user-images.githubusercontent.com/61475474/170089028-022e442f-cfac-4aa3-8735-daca17539c44.png" width = "210.5">
 
-## Wiring
+## Wiring Progress
 
+### Wiring Overview
 The wiring was maybe the most challenging part of this project, and not because it was the most difficult skill wise, or even difficult to understand. It was so challenging because we had to get this rocket in the air and due to setbacks at the beginning of the project, as well as one of our team members (me I'm Max I got covid) getting covid, we were far behind from where our project plan put us. Neither of us has much soldering experience either, which slowed us down considerably. The final jumble of wires did work though. It may not have looked clean, and was not easy to understand, but it served its function and got electricity from point A to point B.
 
 ### Wiring Pictures
@@ -72,6 +73,14 @@ The wiring was maybe the most challenging part of this project, and not because 
 <img src="https://user-images.githubusercontent.com/60942957/171424201-8720a149-bb4a-44cd-b836-10c66b874288.png" width = "210.5">
 
 <img src="https://user-images.githubusercontent.com/60942957/171425188-8f67cbe3-9a19-45fc-85ce-9e48772442b6.png" width = "210.5">
+
+## Materials Used
+
+empty
+
+## Timeline
+
+empty
 
 ### Miscellaneous Pictures
 
